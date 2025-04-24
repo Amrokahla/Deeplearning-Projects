@@ -7,6 +7,9 @@ This repository contains various **DeepLearning Learning** and **Modeling** proj
 #### 1. [Neural Networks Implelementation](./Neural_Networks_Implelementation)
    - **Description**: Building Neural Networks from scratch. Going through steps of forward and backward probagations in detalis and implelemnting them, then test on toy datset.
 
+#### 2. [Lung CT-Scans Segemnation](./Lung_CT-Scans_Segemnation)
+   - **Description**: Segmenting Lung CT-scan using a U-Net model built from scratch to accurately delineate lung regions in medical images.
+
 
 
 
